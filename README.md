@@ -39,19 +39,27 @@
 
 
 ### 개발 일정  
+![개발일정](https://user-images.githubusercontent.com/88263745/152727479-9a4cc838-ee24-4b05-88c2-c998692babeb.png)
 
 
 ### 개발 환경  
+![개발환경](https://user-images.githubusercontent.com/88263745/152727470-67753445-7e72-409b-b3a1-6f788d7c9583.png)
 
 
 ### 사용 시나리오  
+<img src = "https://user-images.githubusercontent.com/88263745/152727453-13994715-e5ae-4274-be34-bc3467c04519.png" width="60%" height="60%">
 중개인이 애플리케이션을 이용하는 시나리오이다. 중개인은 가공된 지역별 중개인 수익 관련 데이터를 요청할 수 있다. 서버는 중개인이 요청한 데이터를 데이터베이스에서 검색하여 애플리케이션에 전송한다. 애플리케이션에서는 전달받은 데이터 형태에 따라 API를 이용해 맵, 리스트 형태로 제공한다.
 
 
 ### 시스템 구성도  
+<img src = "https://user-images.githubusercontent.com/88263745/152727447-466cf02a-b4f8-4202-a8a8-89258f2cb7ba.png" width="80%" height="80%">
 
 
 ### 서비스 이미지  
+<img src = "https://user-images.githubusercontent.com/88263745/152727529-ef60684d-d0a4-49d8-8730-53393d1bdd27.jpg" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/88263745/152727539-604543f2-7b72-4b9a-8cfc-1d03de1789d8.jpg" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/88263745/152727545-09ec1951-f130-427d-bf1a-c09ad828ee54.jpg" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/88263745/152727546-ebf2f0fe-4465-487c-a8a9-80b0a6a1a00d.jpg" width="30%" height="30%">
 
 
 
