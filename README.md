@@ -1,15 +1,9 @@
 # infobro
 ### 플레이스토어 스크린샷 
 
-<img src = ["https://user-images.githubusercontent.com/88263745/152727529-ef60684d-d0a4-49d8-8730-53393d1bdd27.jpg"](https://github.com/holdingcp/infobro/blob/main/%EC%9D%B8%ED%8F%AC%EB%B8%8C%EB%A1%9Cscrennshot1.png) width="30%" height="30%">
-
-<img src = "https://user-images.githubusercontent.com/88263745/152727539-604543f2-7b72-4b9a-8cfc-1d03de1789d8.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152727545-09ec1951-f130-427d-bf1a-c09ad828ee54.jpg" width="30%" height="30%">
-
-<img src = "https://user-images.githubusercontent.com/88263745/152727546-ebf2f0fe-4465-487c-a8a9-80b0a6a1a00d.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152728014-b6813fcf-b518-4ec1-92fa-5b8b2a2983f9.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152727563-36854a8f-1e6a-4408-9f98-3107c8c6e268.jpg" width="30%" height="30%">
-
-<img src = "https://user-images.githubusercontent.com/88263745/152727570-ff13da1c-e2a4-47e9-8334-6e2aee8aa54f.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152727575-565b3d13-eecf-4379-b44e-d39210909b2f.jpg" width="30%" height="30%">
-
-<img src = "https://user-images.githubusercontent.com/88263745/152727579-4eb0103f-6d7e-4de7-a8cc-c96adb9a3635.jpg" width="30%" height="30%">
+<img width="629" alt="인포브로scrennshot1" src="https://user-images.githubusercontent.com/88263745/183119458-7852796f-5f86-4017-99af-5f78f1f92328.png">
+<img width="575" alt="인포브로scrennshot2" src="https://user-images.githubusercontent.com/88263745/183119466-9967fc71-0cf7-4acc-84f6-aa082b04857c.png">
+<img width="754" alt="인포브로scrennshot3" src="https://user-images.githubusercontent.com/88263745/183119470-44efd9a3-bd62-4ff1-9763-dad9e10d9dde.png">
 
 
 
