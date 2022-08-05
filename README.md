@@ -1,7 +1,7 @@
 # infobro
 ### 플레이스토어 스크린샷 
 
-<img src = "https://user-images.githubusercontent.com/88263745/152727529-ef60684d-d0a4-49d8-8730-53393d1bdd27.jpg" width="30%" height="30%">
+<img src = ["https://user-images.githubusercontent.com/88263745/152727529-ef60684d-d0a4-49d8-8730-53393d1bdd27.jpg"](https://github.com/holdingcp/infobro/blob/main/%EC%9D%B8%ED%8F%AC%EB%B8%8C%EB%A1%9Cscrennshot1.png) width="30%" height="30%">
 
 <img src = "https://user-images.githubusercontent.com/88263745/152727539-604543f2-7b72-4b9a-8cfc-1d03de1789d8.jpg" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/88263745/152727545-09ec1951-f130-427d-bf1a-c09ad828ee54.jpg" width="30%" height="30%">
 
