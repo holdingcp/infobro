@@ -1,9 +1,9 @@
 # infobro
 ### 플레이스토어 스크린샷 
 
-![인포브로 screenshot1](https://user-images.githubusercontent.com/88263745/187358095-be781c82-6469-4efc-a449-9caaf09d0f91.png)
-![인포브로 screenshot2](https://user-images.githubusercontent.com/88263745/187358118-0bf0c535-1364-497a-bc1b-044c48b9398e.png)
-![인포브로 screenshot3](https://user-images.githubusercontent.com/88263745/187358135-f21715be-2a21-468f-9a17-819fbfc0d41f.png)
+![인포브로 screenshot1](https://user-images.githubusercontent.com/88263745/201618684-0c8e75b3-f9fa-4686-a7ad-fb57f0db4d23.png)
+![인포브로 screenshot2](https://user-images.githubusercontent.com/88263745/201618747-5326e511-1b25-405b-9f04-80c51fabea9a.png)
+![인포브로 screenshot3](https://user-images.githubusercontent.com/88263745/201618775-0bc8945a-9330-4da6-9786-50458c64bf0a.png)
 
 
 
